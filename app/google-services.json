@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959737353068",
+    "project_id": "frontdesk-a9f5d",
+    "storage_bucket": "frontdesk-a9f5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959737353068:android:0594b309c90a5a76941949",
+        "android_client_info": {
+          "package_name": "ai.frontdesk.agent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuHHkdxSChvuLcFIu-A1QmXjm3N5OzBs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

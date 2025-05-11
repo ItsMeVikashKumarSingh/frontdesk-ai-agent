@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnStartCall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Call" />
+
+    <TextView
+        android:id="@+id/tvCallStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Call not started."
+        android:textSize="18sp"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/tvDebug"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="(Call log here)"
+        android:layout_marginTop="12dp" />
+</LinearLayout>
