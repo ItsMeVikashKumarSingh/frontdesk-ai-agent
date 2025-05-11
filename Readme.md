@@ -47,7 +47,7 @@ app/
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/itsmevikashkumarsigh/frontdesk-ai-agent.git
+git clone https://github.com/ItsMeVikashKumarSingh/frontdesk-ai-agent.git
 cd frontdesk-ai-agent
 ```
 
